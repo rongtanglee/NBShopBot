@@ -1,4 +1,4 @@
-package com.ron.jsonpost;
+package com.ron.nbshopbot;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.widget.Toast;
 import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
-    private final static String TAG = "JsonPost";
+    private final static String TAG = "NBShopBot";
     private EditText etSimulatorID;
     private EditText etChatSessionID;
     private EditText etMessage;

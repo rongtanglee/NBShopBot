@@ -1,4 +1,4 @@
-package com.ron.jsonpost;
+package com.ron.nbshopbot;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
